@@ -43,7 +43,7 @@ Tools:       Git, Vite, Vercel, Google Colab
 - **Open Source Collaborations** in web and mobile development
 
 ### 📫 Let's Connect
-- **Portfolio**: [madhur-n.vercel.app](https://madhur-n.vercel.app)
+- **Portfolio**: [madhur.dev](https://madhur.dev)
 - **Email**: pmadhurn@gmail.com
 - **LinkedIn**: [linkedin.com/in/madhur-n](https://linkedin.com/in/madhur-n)
 - **Phone**: +91 9016273812
