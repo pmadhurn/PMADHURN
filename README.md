@@ -22,7 +22,7 @@ DevOps / Infrastructure / Platform / SRE first; embedded, robotics and backend c
 | **[NavDashboard](https://nav.madhur.dev)** | Asset & operations tracking — devices, inventory, personnel, QR labels, gate-pass workflows. Async FastAPI with a per-capability permission engine, local-LLM assistant, React 18 + TS, PostgreSQL + PostGIS + pgvector, Redis, MinIO. |
 | **[PulseBoard](https://health.madhur.dev)** | My own monitoring: CPU, memory, swap, storage, network, disk I/O, processes. Zero-idle by design — it costs nothing when nobody is looking, which matters on a 2-core box that is also serving everything else. |
 | **[Learn](https://learn.madhur.dev)** | Self-hosted AI tutor — streamed lessons with citations, adaptive quizzes with grading, multi-model routing with stall failover. |
-| **[Read](https://read.madhur.dev)** | Family speed-reading library — shared shelf, RSVP reader, streaks and leagues. |
+| **Read** (`read.madhur.dev`, passcode-gated) | Family speed-reading library — shared shelf, RSVP reader, progress, streaks and leagues. Runs on the same box; link withheld because it holds family data. |
 | **[FileDrop](https://link.madhur.dev)** | Anonymous chunked uploads, one short link, hard-deleted after 24 hours. |
 
 ## Projects
